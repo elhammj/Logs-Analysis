@@ -10,6 +10,7 @@ produce a report that answers the following questions:
 * Q1: What are the most popular three articles of all time?
 * Q2: Who are the most popular article authors of all time?
 * Q3: On which days did more than 1% of requests lead to errors?
+
 The tool prints out reports (in plain text) based on the data in the database. 
 
 ## Files:
