@@ -7,9 +7,9 @@ It is a Full Stack project that emphsizes python &  SQL skills.
 This project sets up a PostgreSQL database for a news website to generate a report.
 The provided Python script (log.py) uses the psycopg2 library to query the database and
 produce a report that answers the following questions:
-Q1: What are the most popular three articles of all time?
-Q2: Who are the most popular article authors of all time?
-Q3: On which days did more than 1% of requests lead to errors?
+* Q1: What are the most popular three articles of all time?
+* Q2: Who are the most popular article authors of all time?
+* Q3: On which days did more than 1% of requests lead to errors?
 The tool prints out reports (in plain text) based on the data in the database. 
 
 ## Files:
